@@ -3,3 +3,8 @@ h1{
     padding: 1em;
     text-align: center;
 }
+#box{
+    width: 100px;
+    height: 100px;
+    background: pink;
+}
